@@ -9,11 +9,14 @@ import UIKit
 
 class ViewController: UIViewController {
 
+    let s = 0
+    
     override func viewDidLoad() {
         super.viewDidLoad()
         // Do any additional setup after loading the view.
     }
-
+    
+    
 
 }
 
